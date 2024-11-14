@@ -22,3 +22,8 @@ The **Image-to-Story Converter** is a powerful AI-based web application that tra
 
 ---
 
+📄 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+📧 Contact
+Developed by Muhammad Umer.
